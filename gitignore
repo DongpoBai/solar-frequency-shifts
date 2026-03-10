@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Downloaded data caches (large, re-downloaded by scripts)
+results/SN_d_tot_V2.0.csv
+results/f107_daily.csv
+results_v2/SN_d_tot_V2.0.csv
+results_v2/f107_daily.csv
+results_ml/SN_d_tot_V2.0.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,7 @@
+analysis,n_points,zero_lag_r,peak_lag_days,peak_r,ci95_low_days,ci95_high_days,conclusion
+raw_ssn,1752,0.9049,0,0.9049,0.0,0.0,NO SIGNIFICANT LEAD/LAG
+detrend81_ssn,1752,0.6299,0,0.6299,0.0,0.0,NO SIGNIFICANT LEAD/LAG
+detrend162_ssn,1752,0.6368,0,0.6368,0.0,0.0,NO SIGNIFICANT LEAD/LAG
+detrend365_ssn,1752,0.6585,0,0.6585,0.0,0.0,NO SIGNIFICANT LEAD/LAG
+detrend81_smooth27_ssn,1752,0.7338,-3,0.7462,0.0,0.0,NO SIGNIFICANT LEAD/LAG
+detrend81_f107,1752,0.5879,0,0.5879,0.0,0.0,NO SIGNIFICANT LEAD/LAG
