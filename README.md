@@ -128,4 +128,4 @@ Frequency shifts derived from SDO/HMI spherical harmonic power spectra processed
 
 ## Author
 
-Dongpo (Eri) Bai -- University of Southern California, Department of Physics & Astronomy
+Dongpo Bai -- University of Southern California, Department of Physics & Astronomy
