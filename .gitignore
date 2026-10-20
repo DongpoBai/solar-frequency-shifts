@@ -20,3 +20,6 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# Internal group data (not public)
+3day_freq_shifts.csv

@@ -77,7 +77,7 @@ solar-frequency-shifts/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── 3day_freq_shifts.csv              # Extracted frequency shifts (1,752 epochs)
+├── 3day_freq_shifts.csv              # Not included (internal group data)
 ├── leadlag_analysis.py               # v1 lead-lag analysis
 ├── leadlag_analysis_v2.py            # v2 with detrending (main)
 ├── xgboost_prediction.py             # ML prediction comparison
@@ -124,7 +124,7 @@ python3 xgboost_prediction.py --freq-csv 3day_freq_shifts.csv --output-dir resul
 
 ## Data Source
 
-Frequency shifts derived from SDO/HMI spherical harmonic power spectra processed by the USC Solar Physics Group (Prof. Edward Rhodes, PI). Raw spectra from [Stanford JSOC](http://jsoc.stanford.edu/).
+Frequency shifts derived from SDO/HMI spherical harmonic power spectra processed by the USC Solar Physics Group (Prof. Edward Rhodes, PI). Raw spectra from [Stanford JSOC](http://jsoc.stanford.edu/). The extracted frequency-shift table (3day_freq_shifts.csv) is internal to the USC Solar Physics Group and is not included in this repository.
 
 ## Author
 
